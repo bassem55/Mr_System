@@ -1,0 +1,145 @@
+option
+{
+    font-size: 20px;
+    text-align: center;
+}
+.sys_name
+{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(37, 11, 71);
+    margin-top: 30px;
+}
+.all_system
+{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.system
+{
+    display: inline-block;
+    border-style: groove;
+    border-color: rgb(70, 12, 12);
+}
+.system_attrs
+{
+    background-color: rgb(51, 110, 103);
+    color:rgb(46, 1, 1);
+}
+.system_attr
+{
+    display: inline-block;
+    text-align: center;
+    border-right-style: groove;
+    border-right-color:  white;
+    font-size: 20px;
+    height: 70px;
+    margin: 0px;
+}
+.row_data
+{
+    display: inline-block;
+    text-align: center;
+    border-style: groove;
+    border-color:  white;
+    height: 40px;
+    font-size: 20px;
+    margin-right: 4px;
+    border-left-style: none;
+    border-bottom-style: none;
+}
+.inputs
+{
+    text-align: center;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    margin-right: 3px;
+}
+.inputs_div
+{
+    display: inline-block;
+    background-color: rgb(51, 110, 103); 
+    padding: 5px;
+    border-radius: 25px;
+    border-style: groove;
+    border-color: #000;
+    margin-left: 30px;
+}
+.btn
+{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: blue;
+    color:white;
+    border-radius: 25px;
+    width:200px;
+    height: 50px;
+    margin-left: 380px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.row
+{
+    background-color: rgb(50, 43, 75);
+    color:white;
+}
+.item_id_attr
+{
+    display: none;
+    width: 70px;
+}
+.item_number_attr
+{
+    display: none;
+    width:70px;
+}
+.item_attr
+{
+    display: none;
+    width:100px;
+}
+.item_type_attr
+{
+    display: none;
+    width:100px;
+}
+.item_price_attr
+{
+    display: none;
+    width:70px;
+}
+.item_buyer_attr
+{
+    display: none;
+    width:140px;
+}
+.item_buyer_phone_attr
+{
+    display: none;
+    width:120px;
+}
+.item_seller_attr
+{
+    display: none;
+    width:100px;
+}
+.item_notes_attr
+{
+    display: none;
+    width:140px;
+}
+.item_add_time_attr
+{
+    width: 80px;
+    border-right-style: none;
+}
+#result
+{
+    font-size: 40px;
+    text-align: center;
+    color:rgb(37, 11, 71);
+}

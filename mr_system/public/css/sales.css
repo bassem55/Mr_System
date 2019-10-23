@@ -1,0 +1,102 @@
+.options
+{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 50px;
+    height: 70px;
+    border-style: groove;
+    border-color: rgb(87, 46, 46);
+}
+.option
+{
+    display: inline-block;
+    width:150px;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+    border-right-style: groove;
+    border-right-color: rgb(87, 46, 46);
+    color:rgb(17, 12, 68);
+}
+#sub-options
+{
+    display: none;
+    border-style: groove;
+    border-color: blue;
+    border-radius: 25px;
+    width:500px;
+    height: 150px;
+    margin-left: 400px;
+    padding: 10px;
+    text-align: center;
+}
+.inputs
+{
+    border-style: dashed;
+    border-radius: 25px;
+    border-color: #000;
+    font-size:25px;
+    width:150px;
+    height: 50px;
+    text-align: center;
+    margin-top: 25px;
+}
+.btn
+{
+    margin-top: 20px;
+    border-style: groove;
+    border-radius: 25px;
+    border-color: blue;
+    background: blue;
+    color: white;
+    width:200px;
+    height: 50px;
+    font-size: 25px;
+}
+#result
+{
+    display:none;
+    border-style: groove;
+    border-color: yellow;
+    border-radius: 25px;
+    width:500px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    background: #000;
+    color:yellow;
+    font-size:30px;
+}
+.sp_sales
+{
+    width:400px;
+    text-align: center;
+    border-style: groove;
+    border-radius: 25px;
+    border-color: blue;
+    margin-top: 100px;
+    margin-left: 450px;
+    padding: 10px;
+}
+.sub_title
+{
+    margin-bottom: 40px;
+    font-size: 25px;
+    color:blue;
+}
+.seller_names
+{
+    
+    text-align: center;
+    width:150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    font-size: 25px;
+}
+option
+{
+    text-align: center;
+}

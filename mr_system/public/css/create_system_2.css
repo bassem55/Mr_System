@@ -1,0 +1,96 @@
+.input
+{
+    font-size: 24px;
+    text-align: center;
+    width:200px;
+    border-radius: 25px;
+}
+.sp-btn
+{
+    font-size: 24px;
+    border-style: none;
+    color:white;
+    border-radius: 25px;
+}
+.sub-div
+{
+    border-style: groove;
+    border-radius: 25px;
+    border-color: rgb(91, 89, 201);
+    padding: 20px;
+    margin-top: 20px;
+}
+.selected_item
+{
+    display: inline-block;
+    background: rgb(36, 12, 121);
+    color:white;
+    font-size:21px;
+    width:150px;
+    margin-bottom: 10px;
+}
+.remove_selected_btn
+{
+    background: rgb(141, 13, 13);
+    font-size: 21px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.add_btn
+{
+    background: rgb(36, 12, 121);
+    
+}
+
+.save_btn
+{
+    background: rgb(6, 16, 61);
+    color: white;
+    margin-top: 50px;
+    width:250px;
+    height: 70px;
+    border-style: none;
+    border-radius: 25px;
+    font-size: 30px;
+    margin-left: 530px;
+}
+#seller_names
+{
+    display: none;
+}
+#item_types
+{
+    display: none;
+}
+#items
+{
+    display: none;
+}
+#gen_item
+{
+    display: none;
+}
+#gen_item_type
+{
+    display: none;
+}
+#gen_item_seller
+{
+    display: none;
+}
+.error
+{
+    position: absolute;
+    left: 30px;
+    top:250px;
+    background-color: rgb(102, 17, 17);
+    color: white;
+    font-size: 30px;
+    width:300px;
+    height: 300px;
+    border-style: none;
+    border-radius: 25px;
+    text-align: center;
+    padding: 20px;
+    display: none;
+}

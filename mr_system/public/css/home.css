@@ -1,0 +1,20 @@
+.options
+{
+    margin-left: 350px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+.option
+{
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    height: 150px;
+    border-style: groove;
+    border-color: rgb(87, 46, 46);
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 100px;
+    color:rgb(17, 12, 68);
+}
